@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 498}
   m_MaxSize: {x: 14002, y: 14048}
   vertical: 0
-  controlID: 10
+  controlID: 48
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 11
+  controlID: 49
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 224}
   m_MaxSize: {x: 8004, y: 4024}
   vertical: 0
-  controlID: 12
+  controlID: 50
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -342,14 +342,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Environment/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\RafaAdmin\Documents\GitHub\ver 1\DreamGame-Programmers-\GameArt
+  m_LastProjectPath: C:\Users\RafaAdmin\Documents\GitHub\DreamGame_ver1\GameArt
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: f60a0000
-    m_LastClickedID: 2806
-    m_ExpandedIDs: 00000000e6090000080a00006e0a0000fc0a0000a40d0000a60d000000ca9a3b
+    m_SelectedIDs: a2270000
+    m_LastClickedID: 10146
+    m_ExpandedIDs: 0000000092260000b42600001a270000a8270000502a0000522a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -377,7 +377,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e6090000080a00006e0a0000fa0a0000660b0000760b0000a40d0000a60d0000c00d0000
+    m_ExpandedIDs: 0000000092260000b42600001a270000a8270000502a0000522a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -496,9 +496,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: e085ffff0c88ffff2a88fffffc89ffffcc8bffff708effff169cffff98a2ffff4aa5ffff3eb2ffff3eb4ffffd2b7ffff32b8ffffe2baffffd4bbffffe4c3ffff1ec7ffff40fbffffd4fbffff70ac0000
+      m_SelectedIDs: 90330000
+      m_LastClickedID: 13200
+      m_ExpandedIDs: 7af3ffffccfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -554,9 +554,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.466434, y: 3.790763, z: -0.68762636}
+    m_Target: {x: 57.047565, y: 4.4885554, z: -0.6876259}
     speed: 2
-    m_Value: {x: 2.466434, y: 3.790763, z: -0.68762636}
+    m_Value: {x: 57.047565, y: 4.4885554, z: -0.6876259}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -584,13 +584,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.45977733, y: 0.047911815, z: -0.024852239, w: 0.8863925}
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0.45977733, y: 0.047911815, z: -0.024852239, w: 0.8863925}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 8.309451
+    m_Target: 19.173628
     speed: 2
-    m_Value: 8.309451
+    m_Value: 19.173628
   m_Ortho:
     m_Target: 0
     speed: 2

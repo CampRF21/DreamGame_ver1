@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Environment/Scenes/Left_Wing_Hallway.unity
+- path: Assets/Environment/Scenes/Main_Corridor_Right.unity
   isLoaded: 1
   isActive: 1

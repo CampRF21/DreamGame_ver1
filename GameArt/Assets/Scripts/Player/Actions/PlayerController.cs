@@ -71,7 +71,6 @@ public class PlayerController : MonoBehaviour {
     public void knockBack()
     {
         float move;
-        knockbackCounter = knockbackTime;
     }
 
     //fucntion for moving horizontally
