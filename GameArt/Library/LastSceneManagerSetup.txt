@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Environment/Scenes/Left_Wing_Hallway.unity
+  isLoaded: 1
+  isActive: 1
